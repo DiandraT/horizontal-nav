@@ -23,4 +23,5 @@ li {
 
 nav li {
   display: inline-block;
+  margin-left: 0.3em;
 }
